@@ -2065,7 +2065,7 @@ button:hover,
 .button:hover {
 	/* My code */
 	color: black;
-	transition-delay: 0.5s;
+	transition-delay: 0.3s;
 	background: #261c3e;
 	box-shadow: 0 0 10px white, 0 0 40px white, 0 0 80px white;
 	/* end of my code */
